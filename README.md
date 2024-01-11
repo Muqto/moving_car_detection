@@ -45,7 +45,6 @@ Features:
 * Count and show the number of objects
 ### Built With
 
-* [![React][React.js]][React-url]
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!-- GETTING STARTED -->
 
