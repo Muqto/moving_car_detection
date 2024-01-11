@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="cv.webp" alt="Logo" width="384" height="216">
+    <img src="cv.webp" alt="Logo" width="768" height="432">
   </a>
   <h3 align="center"><a href="https://www.youtube.com/watch?v=HI_XG6K85M4"> Parked Car, Moving Car and Pedestrian Detection </a></h3>
   
